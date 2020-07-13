@@ -1,0 +1,17 @@
+{
+  "name": "hospital-covid-api",
+  "version": "1.0.0",
+  "description": "RESTFul API for hospital to manage COVID patients",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "COVID"
+  ],
+  "author": "ShubhamNagpal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
