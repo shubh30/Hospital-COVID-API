@@ -4,6 +4,7 @@
   "description": "RESTFul API for hospital to manage COVID patients",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [

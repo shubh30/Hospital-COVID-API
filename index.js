@@ -11,7 +11,7 @@ app.use(express.json());
 app.use("/", require("./routes"));
 
 //Server Listner
-app.listen(port, function(err) {
+app.listen(PORT, function(err) {
   if (err) {
     console.log("Error Running the Server", err);
   }
